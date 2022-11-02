@@ -14,6 +14,10 @@ public class HockeyPlayer {
 		
 	}
 	
+	public static int add(int a, int b) {
+		return a+b;
+	}
+	
     public HockeyPlayer(String name, int number, boolean handLeft, boolean shootLeft) {
     	this.name = name;
     	this.number = number;
