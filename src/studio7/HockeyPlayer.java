@@ -14,7 +14,7 @@ public class HockeyPlayer {
 		
 	}
 	
-    public HockeyPlayer(String name, int number, boolean handLeft, boolean shootRight) {
+    public HockeyPlayer(String name, int number, boolean handLeft, boolean shootLeft) {
     	this.name = name;
     	this.number = number;
     	this.handLeft = handLeft;
